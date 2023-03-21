@@ -1,7 +1,7 @@
-# EDA--Forbes-Highest-Paid-Athletes
+# EDA - Forbes Highest Paid Athletes
 An extensive Exploratory Data Analysis on the Forbes List Highest Paid Athletes between 1990 - 2020.
 
-# Task 
+## Task 
 Apply both data analystics and visualisation skills to a real-life dataset. 
 
 Write code that can clean, organise, analyse and visualise data to be able to communicate findings to stakeholders effectively. 
