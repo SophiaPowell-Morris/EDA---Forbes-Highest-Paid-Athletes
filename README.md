@@ -1,13 +1,13 @@
 # EDA - Forbes Highest Paid Athletes
-An extensive Exploratory Data Analysis on the Forbes List Highest Paid Athletes between 1990 - 2020.
+An extensive Exploratory Data Analysis on the Forbes List Highest Paid Athletes between 1990 - 2020 dataset.
 
 ## Task 
-Apply both data analystics and visualisation skills to a real-life dataset. 
+Apply both data analytics and visualisation skills to a real-life dataset. 
 
-Write code that can clean, organise, analyse and visualise data to be able to communicate findings to stakeholders effectively. 
+This EDA contains code that cleans, organise, analyses and visualises the data to communicate insightful findings to stakeholders effectively. 
 
-Your EDA report should include the following:
-* A brief description of your dataset you have chosen
-* A description of how your dataset was cleaned
-* A description of how you managed missing data
-* A detailed description of your findings accompanied by the appropriate visualisations
+The EDA includes the following:
+* A brief description of the dataset.
+* A description of how the dataset was cleaned.
+* A description of how the missing data is the set was managed.
+* A detailed description of any insightful findings accompanied by the appropriate visualisations. 
