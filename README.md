@@ -12,4 +12,4 @@ The EDA includes the following:
 * A description of how the missing data is the set was managed.
 * A detailed description of any insightful findings accompanied by the appropriate visualisations.
 
-This EDA uses tools suchas Pandas, NumPy, Scipy, Seaborn, Matplotlib, and Mxlxtend. Along with other Python libraries to generate certain graphical methods such as CloudWord and Squarify (Treemaps).
+This EDA uses tools suchas Pandas, NumPy, Scipy, Seaborn, Matplotlib, and Mxlxtend. Along with other Python libraries to generate certain graphical methods such as missingno, cloudword and Squarify (Treemaps).
